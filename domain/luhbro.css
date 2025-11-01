@@ -1,15 +1,15 @@
 .proxy {
-width: 125px;
-height: 125px;
+width: 145px;
+height: 145px;
 border-radius: 25px;
-margin: 16px;
+margin: 14px;
 transition: all .5s ease-in-out;
 }
 .proxyimg {
-width: 127px;
-height: 127px;
+width: 147px;
+height: 147px;
 border-radius: 25px;
-margin: -16px;
+margin: -14px;
 transition: all .5s ease-in-out;
 }
 .proxyimg:hover {
